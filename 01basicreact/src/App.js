@@ -1,7 +1,11 @@
+import Chai from './Chai';
 
 function App() {
   return (
-    <h1> Sneha Yadav </h1>
+    <>
+    <Chai/>
+    
+    </>
   );
 }
 
